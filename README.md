@@ -1,4 +1,4 @@
-git # Beyond All Calculators (beyond-all-calculators)
+# Beyond All Calculators (beyond-all-calculators)
 
 Beyond All Calculators - a tool for playing Beyond All Reason, built on Quasar/Vue.js
 
