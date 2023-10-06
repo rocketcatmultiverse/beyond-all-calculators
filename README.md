@@ -1,6 +1,6 @@
-# Quasar BAC Test (quasar-bac-test)
+git # Beyond All Calculators (beyond-all-calculators)
 
-Quasar BAC Test
+Beyond All Calculators - a tool for playing Beyond All Reason, built on Quasar/Vue.js
 
 ## Install the dependencies
 ```bash
