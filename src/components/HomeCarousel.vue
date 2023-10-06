@@ -1,22 +1,23 @@
 <template>
   <div class="q-pa-md">
     <q-carousel arrows animated v-model="slide" height="400px">
-      <q-carousel-slide name="first" img-src="https://cdn.quasar.dev/img/mountains.jpg">
+      <q-carousel-slide name="first" img-src="../../img/bac-explorer.png">
         <div class="absolute-bottom custom-caption">
-          <div class="text-h2">First stop</div>
-          <div class="text-subtitle1">Mountains</div>
+          <div class="text-h2">Explore BAR</div>
+          <div class="text-subtitle1">In depth information in tabular form, exportable to CSV</div>
         </div>
       </q-carousel-slide>
-      <q-carousel-slide name="second" img-src="https://cdn.quasar.dev/img/parallax1.jpg">
+      <q-carousel-slide name="second" img-src="../../img/bac-cost.png">
         <div class="absolute-bottom custom-caption">
-          <div class="text-h2">Second stop</div>
-          <div class="text-subtitle1">Famous City</div>
+          <div class="text-h2">Calculate Costs</div>
+          <div class="text-subtitle1">Calculate metal and energy usage</div>
         </div>
       </q-carousel-slide>
-      <q-carousel-slide name="third" img-src="https://cdn.quasar.dev/img/parallax2.jpg">
+      <q-carousel-slide name="third" img-src="../../img/bac-repeat.png">
         <div class="absolute-bottom custom-caption">
-          <div class="text-h2">Third stop</div>
-          <div class="text-subtitle1">Famous Bridge</div>
+          <div class="text-h2">Repeat Queue Calculator</div>
+          <div class="text-subtitle1">Calculate average, min, and max costs of production queues in multiple factories
+          </div>
         </div>
       </q-carousel-slide>
     </q-carousel>
